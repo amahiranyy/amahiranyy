@@ -78,17 +78,15 @@
 
 ### 📫 Connect with Me  
 
-<a href="https://www.linkedin.com/in/ximena-martinez-maciel" target="_blank">
+<a href="https://www.linkedin.com/in/ximena-martinez-maciel" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="#" target="_blank">
+<a href="#" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
-<a href="mailto:amahirany.maciel@gmail.com" target="_blank">
+<a href="mailto:amahirany.maciel@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-
 
 <p align="center">✨ "El mejor código es el que resuelve un problema real." ✨</p>
 

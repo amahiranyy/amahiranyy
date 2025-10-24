@@ -79,6 +79,8 @@
 ### 👩‍💻 GitHub Contributions  
 
 - [Amanalli](https://github.com/RicardoSaGa/Amanalli): Desarrolladora Full Stack
+- [Héctor Academico](https://github.com/HectorAcademico/hectoracademico.github.io): Desarrolladora Front End - [Deploy]([https://github.com/HectorAcademico/hectoracademico.github.io](https://hectoracademico.github.io))
+- [Invitación](https://github.com/amahiranyy/aranzaypablo.github.io): Desarrolladora Front End
 
 ---
 

@@ -76,6 +76,12 @@
 
 ---
 
+### 👩‍💻 GitHub Contributions  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amahiranyy)
+
+---
+
 ### 📫 Connect with Me  
 
 <a href="https://www.linkedin.com/in/ximena-martinez-maciel" target="_blank" rel="noopener noreferrer">

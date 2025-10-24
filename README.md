@@ -12,6 +12,20 @@
 
 ---
 
+### 📫 Connect with Me  
+
+<a href="https://www.linkedin.com/in/ximena-martinez-maciel" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:amahirany.maciel@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -82,19 +96,6 @@
 - [Héctor Academico](https://github.com/HectorAcademico/hectoracademico.github.io): Desarrolladora Front End - [Deploy]([https://github.com/HectorAcademico/hectoracademico.github.io](https://hectoracademico.github.io))
 - [Invitación](https://github.com/amahiranyy/aranzaypablo.github.io): Desarrolladora Front End
 
----
-
-### 📫 Connect with Me  
-
-<a href="https://www.linkedin.com/in/ximena-martinez-maciel" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-<a href="mailto:amahirany.maciel@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
 
 
 
